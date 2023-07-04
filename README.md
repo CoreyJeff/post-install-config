@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1: 
+Step 1: Log in to osTicket from the Virtual Machine and from the home page go to the Admin Panel in the upper right corner then go to the Agents Tab and Roles. Add a new role and name it Supreme Admin and go to the Permissions tab next to it and check all the boxes including the (Tasks and Knowledgebase) boxes too.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Step 1:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2: 
+Step 2: From the Agents Tab go to Departments and add a new department and name it (System Administrators) and create with the default settings.
 </p>
 <br />
 
@@ -53,7 +53,7 @@ Step 2:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3:
+Step 3: You should already be in the Agents tab from there go to Teams and add a new team. Name the team (Level 2 Support) and add the team and add yourself to the team.
 </p>
 <br />
 
@@ -61,7 +61,7 @@ Step 3:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 4:
+Step 4: Go to settings but make sure you are in the Admin Panel and go to Users and uncheck the Registration Required box.
 </p>
 <br />
 
@@ -69,7 +69,7 @@ Step 4:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 5:
+Step 5: Go to the Agents Tab and add a new agent. You are going to name this Agent (Jane Doe) and the email will be (jane.doe@osticket.com) and username will be (jane.doe) make the password something easy to remember and uncheck both boxes. Go over one tab to the Access section and set the department and role to the two you just created. Which would be (System Administrators and Supreme Admin). Go to the Teams Tab and change it to the (Level 2 Support Team) and create. Add one more Agent and name him (John Doe) and repeat the steps but this time you will be adding it to the Support Department and a View Only Role and for Extended Access it should be Support too.
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Step 5:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 6:
+Step 6: Switch from the Admin Panel to Agent in the upper right corner and go to the Users Tab and add a new user. You are going to name this user (Karen Karen) and the email will be (karen@osticket.com). Add another user and repeat the steps but name it (Ken).
 </p>
 <br />
 
