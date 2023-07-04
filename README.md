@@ -85,7 +85,7 @@ Step 6: Switch from the Admin Panel to Agent in the upper right corner and go to
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 7:
+Step 7: Go back to the Admin Panel in the upper right and go to the Manage Tab and click SLA. Add a new SLA Plan and name it Sev-A keep the Grace Period at 1hr and change the Schedule to 24/7 and create. Add anthother SLA and name it Sev-B change the Grace Period to 4 hrs and the Schedule to 24/7. Create one more SLA plan and name it Sev-C and make the Grace Period 8hrs and the Schedule Buisness Hours and create.
 </p>
 <br />
 
@@ -93,6 +93,6 @@ Step 7:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 8:
+Step 8: Stay in the Manage panel and go to Help topics right under the Dashboard Tab. Add a Help Topic and name it Buisness Critical Outage and add. Add one more and name it Personal Computer Issues and save the changes.
 </p>
 <br />
