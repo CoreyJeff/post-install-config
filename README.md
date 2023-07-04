@@ -96,3 +96,11 @@ Step 7: Go back to the Admin Panel in the upper right and go to the Manage Tab a
 Step 8: Stay in the Manage panel and go to Help topics right under the Dashboard Tab. Add a Help Topic and name it Buisness Critical Outage and add. Add one more and name it Personal Computer Issues and save the changes.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+These were the main post installation configuration steps. Now you should be ready to play around in the app as a Agent and a User and learn how to create and resolve tickets from customers. I hope this really helped you out
+</p>
+<br />
