@@ -99,7 +99,8 @@ Step 7: Go back to the Admin Panel in the upper right and go to the Manage Tab a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/1ae2e5e9-5680-4409-b5f5-7a7cf1659d14"
+"/>
 </p>
 <p>
 Step 8: Stay in the Manage panel and go to Help topics right under the Dashboard Tab. Add a Help Topic and name it Buisness Critical Outage and add. Add one more and name it Personal Computer Issues and save the changes.
