@@ -72,7 +72,8 @@ Step 4: Go to settings but make sure you are in the Admin Panel and go to Users 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/bc4bc334-111b-468c-8b3d-c691a36dfede"
+"/>
 </p>
 <p>
 Step 5: Go to the Agents Tab and add a new agent. You are going to name this Agent (Jane Doe) and the email will be (jane.doe@osticket.com) and username will be (jane.doe) make the password something easy to remember and uncheck both boxes. Go over one tab to the Access section and set the department and role to the two you just created. Which would be (System Administrators and Supreme Admin). Go to the Teams Tab and change it to the (Level 2 Support Team) and create. Add one more Agent and name him (John Doe) and repeat the steps but this time you will be adding it to the Support Department and a View Only Role and for Extended Access it should be Support too.
