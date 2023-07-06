@@ -81,7 +81,8 @@ Step 5: Go to the Agents Tab and add a new agent. You are going to name this Age
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/018be898-11ca-4915-ac87-9ae5331e3f71"
+"/>
 </p>
 <p>
 Step 6: Switch from the Admin Panel to Agent in the upper right corner and go to the Users Tab and add a new user. You are going to name this user (Karen Karen) and the email will be (karen@osticket.com). Add another user and repeat the steps but name it (Ken).
