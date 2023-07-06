@@ -34,7 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-![image](https://github.com/CoreyJeff/post-install-config/assets/138095936/69eb5c13-890e-4b9a-b0dc-c2fc8660c774)
+<img src=(https://github.com/CoreyJeff/post-install-config/assets/138095936/c7726515-22a8-43ca-86e3-f2fe1c37342d)
+
 
 
 </p>
