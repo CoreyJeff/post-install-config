@@ -90,7 +90,8 @@ Step 6: Switch from the Admin Panel to Agent in the upper right corner and go to
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/d1e303a7-8b2a-4f3a-9304-01b3851c56fb"
+"/>
 </p>
 <p>
 Step 7: Go back to the Admin Panel in the upper right and go to the Manage Tab and click SLA. Add a new SLA Plan and name it Sev-A keep the Grace Period at 1hr and change the Schedule to 24/7 and create. Add anthother SLA and name it Sev-B change the Grace Period to 4 hrs and the Schedule to 24/7. Create one more SLA plan and name it Sev-C and make the Grace Period 8hrs and the Schedule Buisness Hours and create.
