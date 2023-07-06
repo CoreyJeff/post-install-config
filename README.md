@@ -54,7 +54,8 @@ Step 2: From the Agents Tab go to Departments and add a new department and name 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/846edaf5-f25d-478c-8169-448dca746c01
+"/>
 </p>
 <p>
 Step 3: You should already be in the Agents tab from there go to Teams and add a new team. Name the team (Level 2 Support) and add the team and add yourself to the team.
