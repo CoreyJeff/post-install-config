@@ -45,7 +45,8 @@ Step 1: Log in to osTicket from the Virtual Machine and from the home page go to
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/38ec5d9e-9533-4b1f-9e9a-ec637e810ce7"/>
+"/>
 </p>
 <p>
 Step 2: From the Agents Tab go to Departments and add a new department and name it (System Administrators) and create with the default settings.
