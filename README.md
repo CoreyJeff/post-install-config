@@ -34,7 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img ![image](https://github.com/CoreyJeff/post-install-config/assets/138095936/f90e0671-210a-4d05-899f-a899309da9e2)
+
 </p>
 <p>
 Step 1: Log in to osTicket from the Virtual Machine and from the home page go to the Admin Panel in the upper right corner then go to the Agents Tab and Roles. Add a new role and name it Supreme Admin and go to the Permissions tab next to it and check all the boxes including the (Tasks and Knowledgebase) boxes too.
