@@ -54,7 +54,7 @@ Step 2: From the Agents Tab go to Departments and add a new department and name 
 <br />
 
 <p>
-<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/846edaf5-f25d-478c-8169-448dca746c01
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/846edaf5-f25d-478c-8169-448dca746c01"
 "/>
 </p>
 <p>
