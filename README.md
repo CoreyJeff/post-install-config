@@ -63,7 +63,8 @@ Step 3: You should already be in the Agents tab from there go to Teams and add a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/0d543117-cb76-44a4-8367-be4dbe796c0b"
+"/>
 </p>
 <p>
 Step 4: Go to settings but make sure you are in the Admin Panel and go to Users and uncheck the Registration Required box.
