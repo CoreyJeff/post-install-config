@@ -108,9 +108,10 @@ Step 8: Stay in the Manage panel and go to Help topics right under the Dashboard
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/post-install-config/assets/138095936/7f2e7e54-c5f1-409b-892e-499555baaf89"
+"/>
 </p>
 <p>
-These were the main post installation configuration steps. Now you should be ready to play around in the app as a Agent and a User and learn how to create and resolve tickets from customers. I hope this really helped you out
+These were the main post installation configuration steps. Now you should be ready to play around in the app as a Agent or a User and learn how to create and resolve tickets from customers. I hope this really helped you out.
 </p>
 <br />
